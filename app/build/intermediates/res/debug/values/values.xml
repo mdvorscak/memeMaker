@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/mike/AndroidStudioProjects/mememaker/app/src/main/res/values/array.xml -->
+    <eat-comment/>
+    <string-array name="fontColorEntries">
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="fontColorValues">
+        <item>#ffffff</item>
+        <item>#000000</item>
+        <item>#ff0000</item>
+        <item>#00ff00</item>
+        <item>#0000ff</item>
+    </string-array>
+    <string-array name="storageEntries">
+        <item>Internal</item>
+        <item>Public External</item>
+        <item>Private External</item>
+    </string-array>
+    <string-array name="storageValueEntries">
+        <item>INTERNAL</item>
+        <item>PUBLIC_EXTERNAL</item>
+        <item>PRIVATE_EXTERNAL</item>
+    </string-array>
+    <!-- From: file:/home/mike/AndroidStudioProjects/mememaker/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="default_color">#ffffff</color>
+    <color name="pressed_color">#bbbbbb</color>
+    <!-- From: file:/home/mike/AndroidStudioProjects/mememaker/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/home/mike/AndroidStudioProjects/mememaker/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_choose_font">Font</string>
+    <string name="action_save">Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_meme_action">Add Meme</string>
+    <string name="app_name">Meme Maker</string>
+    <string name="delete_action">Delete Image</string>
+    <string name="dialog_confirm">Please confirm</string>
+    <string name="dialog_message_delete_file">Are you sure you want to remove this file?</string>
+    <string name="dialog_message_delete_meme">Are you sure you want to remove this meme?</string>
+    <string name="edit_action">Edit</string>
+    <string name="general_error">Sorry, there was an error!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="images_fragment_title">Images</string>
+    <string name="import_image">Import</string>
+    <string name="memes_fragment_title">Memes</string>
+    <string name="send_to">Send To</string>
+    <string name="settings_action">Settings</string>
+    <string name="share_action">Share</string>
+    <string name="storage_default_value">INTERNAL</string>
+    <string name="storage_key">Storage</string>
+    <string name="title_activity_create_meme">Create Your Meme</string>
+    <string name="title_internal_storage_type">Internal Storage</string>
+    <string name="title_private_external_storage_type">Private External</string>
+    <string name="title_public_external_storage_type">Public External</string>
+    <string name="title_storage_type">Storage Type</string>
+    <!-- From: file:/home/mike/AndroidStudioProjects/mememaker/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="holoLightLess">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>
